@@ -26,3 +26,8 @@
   - Uses deep learning from intents to create the chatbot
   - DDGS for web search
   - Then Tkinter for the GUI so you can talk with the chatbot
+## Local AI Assistant
+- Description: Allows you to discuss with Ollama models locally without much set up
+- How it works:
+  - Imports the Ollama module and prints the list of models on the device
+  - And that's it! Talk with the model locally with no dependencies on the internet (unless you're using a cloud model)
