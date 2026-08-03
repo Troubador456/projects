@@ -31,3 +31,4 @@
 - How it works:
   - Imports the Ollama module and prints the list of models on the device
   - And that's it! Talk with the model locally with no dependencies on the internet (unless you're using a cloud model)
+- Open the dist folder to find the .exe and check requirements.txt (only ollama for this projects)
