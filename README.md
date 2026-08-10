@@ -32,3 +32,8 @@
   - Imports the Ollama module and prints the list of models on the device
   - And that's it! Talk with the model locally with no dependencies on the internet (unless you're using a cloud model)
 - Open the dist folder to find the .exe and check requirements.txt (only ollama for this projects)
+## House Price Predictor
+- Description: Predicts Median house values manually (w/o Sklearn)
+- How it works:
+  - All aspects like gradient, mse, etc. are implemented using pandas
+- Results in similar MSE to sklearn's linear regression
