@@ -37,3 +37,10 @@
 - How it works:
   - All aspects like gradient, mse, etc. are implemented using pandas
 - Results in similar MSE to sklearn's linear regression
+## Voice Assistant
+- Description: CLI voice assistant that searches the web, opens websites, checks wikipedia, and can even tell you a joke!
+- How it works:
+  - Uses speech_recognition & pyttsx3 to speak out its output
+  - Uses webbrowser library to open urls and other keywords
+- Instructions:
+  - URL requires HTTPS link and WWW for the URL
