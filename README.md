@@ -44,3 +44,7 @@
   - Uses webbrowser library to open urls and other keywords
 - Instructions:
   - URL requires HTTPS link and WWW for the URL
+## E-commerce Landing Site using Tailwind CSS and Stripe
+- Description: Simple example landing page that displays a buying site for a physical AI helper
+- Has Stripe integration for payment so that whole system works
+- Just basic onboarding and checkout functionalities built in
